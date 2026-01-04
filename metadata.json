@@ -1,0 +1,8 @@
+{
+  "name": "FastFood Calorie AI",
+  "description": "An ultra-fast mobile app to instantly estimate calories and macros from food photos with voice support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
